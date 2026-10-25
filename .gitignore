@@ -1,0 +1,12 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+# Editores e IDEs
+.vscode/
+.idea/
+# Segredos e ambiente local
+.env
+*.pem
+*.key
+# Dependências (se forem adicionadas)
+node_modules/
